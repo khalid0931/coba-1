@@ -17,6 +17,6 @@ int main(){ //program uutama
     cout << "Halo Word" << endl;
     cout << 99 << endl;
     cout << age;
-    cout << age1
+    cout << age1;
     
 }
